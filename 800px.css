@@ -1,0 +1,54 @@
+@media only screen and (max-width: 800px) {
+
+.right {
+	height: auto;
+	width:100%;
+}
+
+.left-full, .left {
+	width: 100%;
+	height: 200px;
+	padding: 0;
+	background-color:#333333;
+}
+
+.right-full {
+	height: auto;
+	width:100%;
+}
+
+.left a {
+	text-align: left;
+	float: initial;
+	margin:50px;
+}
+
+#name {
+	font-size: 45px;
+}
+
+#title {
+	font-size: 20px;
+	color:#999999;
+}
+
+#pp {
+	background-color: #262626;
+	position: initial;
+	height:auto;
+}
+
+#pp img{
+	padding-top: 100px;
+	padding-bottom: 100px;  
+	height: 200px;
+	width:200px;
+	position: initial;
+	transform:none;
+}
+
+.u {
+	width:33.33%;
+}
+
+}
